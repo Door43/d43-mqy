@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqy:home|Door43 (mqy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqy|d43-mqy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqy/archive/master.zip|d43-mqy.zip]]
+
+**Recent Changes**
+{{changes>ns = mqy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqy|Ethnologue data]]
+
